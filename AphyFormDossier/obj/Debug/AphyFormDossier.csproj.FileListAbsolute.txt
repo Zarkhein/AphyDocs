@@ -1,0 +1,11 @@
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\bin\Debug\AphyFormDossier.exe.config
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\bin\Debug\AphyFormDossier.exe
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\bin\Debug\AphyFormDossier.pdb
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\obj\Debug\AphyFormDossier.csproj.AssemblyReference.cache
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\obj\Debug\AphyFormDossier.csproj.SuggestedBindingRedirects.cache
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\obj\Debug\AphyFormDossier.Form1.resources
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\obj\Debug\AphyFormDossier.Properties.Resources.resources
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\obj\Debug\AphyFormDossier.csproj.GenerateResource.cache
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\obj\Debug\AphyFormDossier.csproj.CoreCompileInputs.cache
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\obj\Debug\AphyFormDossier.exe
+C:\Users\msital\source\repos\AphyFormDossier\AphyFormDossier\obj\Debug\AphyFormDossier.pdb
